@@ -1,7 +1,9 @@
-# Hi, I’m Aaron 👋
+Hey, I’m Aaron 👋
 
-I work on systems and information security, with a soft spot for UNIX and FreeBSD.
+Systems engineering, information security, UNIX, and FreeBSD. Linux also gets a seat at the terminal.
 
-I like FOSS, operating systems, networking, cryptography, privacy, and the history behind the tools we still use.
+I spend my time figuring out how systems work, why packets disappear, and whether that process really needs root.
 
-Mostly asking why this has root access.
+“Temporary workaround” is apparently a unit of time measured in years.
+
+aaronkaufman.com
